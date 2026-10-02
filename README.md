@@ -10,4 +10,4 @@
 
 ## Project Decision: Go. Ready to move ahead with this topic and dataset
 
-## [PLAN.md](Team Plan)
+## [Team Plan](PLAN.md)
