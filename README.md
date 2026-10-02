@@ -4,7 +4,6 @@
 
 ## Older Population Fall Risk
 ### Falls are the leading cause of injury death among adults over 65. Men and women fall at similar rates, but women report substantially more fall-related injuries, so the disparity lies in outcome rather than frequency.
-### Among older adults who fall, which factors predict whether a fall results in injury, and do those predictors differ by sex?
-### https://www.cdc.gov/brfss/
+
 ### Falls are self-reported by telephone, so recall bias is likely, and the survey excludes adults in nursing homes.
 ## Dataset:https://zenodo.org/records/8003441
