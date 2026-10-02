@@ -8,4 +8,4 @@
 ### Falls are self-reported by telephone, so recall bias is likely, and the survey excludes adults in nursing homes.
 ## Dataset:https://zenodo.org/records/8003441
 
-##Project Decision: Go- ready to move ahead with this topic and dataset
+## Project Decision: Ready to move ahead with this topic and dataset
