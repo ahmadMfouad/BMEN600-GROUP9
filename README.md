@@ -11,3 +11,5 @@
 ## Project Decision: Go. Ready to move ahead with this topic and dataset
 
 ## [Team Plan](PLAN.md)
+[Dataset Summary](dataset-summary.png)
+[Stride Speed/Length](stride-speed-length.png)
